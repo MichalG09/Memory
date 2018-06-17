@@ -1,0 +1,129 @@
+body
+{
+	background-color: #303030;
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+}
+
+#MyName
+{
+	color: #f1f1f1;
+	text-align: center;
+	font-size: 75px;
+	padding: 10px;
+}
+
+#buttonStart
+{
+	background-color: #bbb;
+	border-bottom: #aaa;
+	width: 200px;
+	height: 50px;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 40px;
+	color: #f1f1f1;
+}
+
+.text
+{
+	color: #f0f0f0;
+	float: center;
+}
+
+.containerMemory
+{
+}
+
+.blockMemory
+{	
+	display: block;
+	padding: 4px;
+	width: 150px;
+	height: 150px;
+	float: left;
+}
+
+.blockReal
+{
+	display: block;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	z-index: 0;
+}
+
+.blockGround
+{
+	display: block;
+	position: absolute;
+	z-index: 1;
+}
+
+.blockGroundSucces
+{
+	display: block;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	z-index: 1;
+}
+
+.new
+{
+	margin-left: auto;
+    margin-right: auto;
+	width: 850px;
+}
+
+.img
+{
+	float: left;
+}
+
+.showResult
+{
+	color: #f1f1f1;
+	font-size: 35px;
+	padding: 5px;
+	text-align: center;
+}
+
+.inputForm
+{
+	color: #f1f1f1;
+}
+
+.inputFormSelect
+{
+	background-color: #bbb;
+	margin: 10px;
+	color: #f1f1f1;
+	width: 50px;
+	height: 30px;
+	font-size: 15px;
+	margin-left: 40px;
+}
+
+.footer
+{
+	color: #f1f1f1;
+	text-align: center;
+	padding: 2px;
+	margin-top: 50px;
+	text-decoration: none;
+}
+
+.link
+{
+	display: block;
+	color: #f0f0f0;
+	text-decoration: none;
+	font-size: 15px;
+}
+
+.button
+{
+	width: 240px;
+	height: 40px;
+	margin: auto auto;
+}
